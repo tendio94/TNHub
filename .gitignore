@@ -1,8 +1,18 @@
 # Compiled class file
 *.class
 
+# Previous builds artifacts
+**/target
+
 # Log file
 *.log
+
+# Intellij IDEA files
+*.iml
+**/.idea
+
+# Token-containing file
+token.txt
 
 # BlueJ files
 *.ctxt
